@@ -5,13 +5,13 @@
 }
 .picture1 {
 	height: 200px;
-	background-image: url(img/box1.jpg);
+	background-image:url(img/box1.jpg);
 	background-size: cover;
 	background-position: center;
 }
 .picture2 {
 	height: 200px;
-	background-image: url(img/box2.jpg);
+	background-image:url(img/box2.jpg);
 	background-size: cover;
 	background-position: center;
 }
